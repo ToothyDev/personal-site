@@ -1,0 +1,10 @@
+# IDE - JetBrains
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Git
+.git/
